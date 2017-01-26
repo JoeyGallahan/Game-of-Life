@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Game of Life</string>
+    <string name="new_activity">Switch Activity</string>
+
+    <!--Button strings-->
+    <string name="start_animation">Play/Pause</string>
+    <string name="pause_animation">Pause</string>
+    <string name="clear_grid">Clear</string>
+
+    <string name="generation_text">Generation: </string>
+    <string name="generation_value">0</string>
+
+    <!--Text to show the animation timing-->
+    <string name="timing_text">Update every</string>
+    <string name="in_seconds">second(s)</string>
+
+    <string name="reset_grid">Reset</string>
+
+    <!--Menu strings-->
+    <string name="quit_game">Quit</string>
+    <string name="save_game">Save</string>
+    <string name="load_game">Load</string>
+    <string name="resize">Resize</string>
+    <string name="save_file_name">Enter a name for your grid</string>
+    <string name="load_file_name">Enter the name of the grid to load</string>
+    <string name="cancel_text">Cancel</string>
+
+    <!--For the color sliders-->
+    <string name="red">Red:</string>
+    <string name="green">Green:</string>
+    <string name="blue">Blue:</string>
+</resources>

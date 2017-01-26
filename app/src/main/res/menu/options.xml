@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/quit"
+        android:title="@string/quit_game"
+        android:orderInCategory="1"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/save_grid"
+        android:title="@string/save_game"
+        android:orderInCategory="1"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/load_grid"
+        android:title="@string/load_game"
+        android:orderInCategory="1"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/switch_activity"
+        android:title="@string/new_activity"
+        android:orderInCategory="1"
+        app:showAsAction="never"/>
+</menu>
